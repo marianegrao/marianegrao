@@ -1,8 +1,8 @@
-<h1 align="left">Olá, visitante. Seja muito bem-vindo! 👋?</h1>
+<h1 align="left">Olá, visitante. Seja muito bem-vindo! 👋</h1>
 
 ###
 
-<p align="left">Sou Maria CLara, mas você pode me chamar de Maria.</p>
+<p align="left">Sou Maria Clara, mas você pode me chamar de Maria.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩‍💻  Desenvolvedora Web Full Stack Jr.<br>📚  Estudante em Cubos Academy.<br>🎯  Almejo minha primeira oportunidade como dev.<br>🌎  Sonho em trabalhar a frente de grandes projetos que ajudem a melhorar o meio ambiente atraves da tecnologia.<br>🎲 Fun fact: tenho uma porquinha de estimação chamda Delphi.</p>
+<p align="left">👩‍💻  Desenvolvedora Web Full Stack Jr.<br>📚  Estudante em Cubos Academy.<br>🎯  Almejo minha primeira oportunidade como dev.<br>🌎  Sonho em trabalhar a frente de grandes projetos que ajudem o meio ambiente através da tecnologia.<br>🎲 Fun fact: tenho uma porquinha de estimação chamda Delphi.</p>
 
 ###
 
