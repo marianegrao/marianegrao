@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩‍💻  Desenvolvedora Web Full Stack Jr.<br>📚  Estudante em Cubos Academy.<br>🎯  Almejo minha primeira oportunidade como dev.<br>🌎  Sonho em trabalhar a frente de grandes projetos que ajudem o meio ambiente através da tecnologia.<br>🎲 Fun fact: tenho uma porquinha de estimação chamda Delphi.</p>
+<p align="left">👩‍💻  Desenvolvedora Web Full Stack Jr.<br>📚  Estudante em Cubos Academy.<br>🎯  Almejo minha primeira oportunidade como dev.<br>🌎  Sonho em trabalhar a frente de grandes projetos que ajudem o meio ambiente através da tecnologia.<br>🎲 Fun fact: tenho uma porquinha de estimação chamada Delphi.</p>
 
 ###
 
