@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Entre com contato comigo</h2>
+<h2 align="left">Entre em contato comigo</h2>
 
 ###
 
