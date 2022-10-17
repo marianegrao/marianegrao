@@ -2,7 +2,7 @@
 
 ###
 <p align="left">Sou Maria Clara, mas você pode me chamar de Maria.</p>
-<p align="left">👩‍💻  Desenvolvedora Web Full Stack<br>🌎  Sonho em trabalhar a frente de grandes projetos que ajudem o meio ambiente através da tecnologia.<br>🎲 Fun fact: tenho uma porquinha de estimação chamada Delphi.</p>
+<p align="left">👩‍💻  Desenvolvedora Web Full Stack<br>🌎  Sonho em trabalhar a frente de grandes projetos que ajudem o mundo através da tecnologia.<br>🎲 Fun fact: tenho uma porquinha de estimação chamada Delphi.</p>
 
 <div align="left">
   <a href="https://github.com/marianegrao">
