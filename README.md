@@ -1,6 +1,10 @@
 <h1 align="left">Olá, visitante. Seja muito bem-vindo! 👋</h1>
 
 ###
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=marianegrao&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianegrao&layout=compact&theme=dark" alt="languages" height="165">
+</p> 
+
 <p align="left">👩‍💻  Desenvolvedora Web Full Stack<br>
 <p align="left">👩‍💻  Monitora Web Full Stack<br>
 
