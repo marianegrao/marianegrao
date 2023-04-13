@@ -3,7 +3,7 @@
 ###
 
 - 🔭 Desenvolvedora Full Stack na [Port Louis](https://www.portdata.tech/)
-- 🌈 Desenvolvedora Front end Voluntária na [Lacrei Saúde](https://www.portallacrei.com.br/)
+- 🌈 Tech Lead Voluntária na [Lacrei Saúde](https://www.portallacrei.com.br/)
 - 🌱 Monitora Full Stack na [Cubos Academy](https://cubos.academy/)
 - 📚 [Desenvolvedora de Software](https://www.linkedin.com/feed/update/urn:li:activity:6988669987422896128/) pela [Cubos Academy](https://cubos.academy/)
 
