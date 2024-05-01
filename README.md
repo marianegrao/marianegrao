@@ -3,7 +3,6 @@
 ###
 
 - 🔭 Desenvolvedora Full Stack na [Port Louis](https://www.portdata.tech/)
-- 🌱 Code Reviewer na [Cubos Academy](https://cubos.academy/)
 - 📚 [Desenvolvedora de Software](https://www.linkedin.com/feed/update/urn:li:activity:6988669987422896128/) pela [Cubos Academy](https://cubos.academy/)
 
 ---
