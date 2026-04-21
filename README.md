@@ -2,7 +2,7 @@
 
 ###
 
-- 🔭 Desenvolvedora Full Stack na [Cartão de Todos](https://www.cartaodetodos.com.br/)
+- 🔭 Desenvolvedora Back-end na [Cartão de Todos](https://www.cartaodetodos.com.br/)
 - 🎓 Bacherelando em Ciência da Computação pela [Estácio](https://estacio.br/)
 - 📚 [Desenvolvedora de Software](https://www.linkedin.com/feed/update/urn:li:activity:6988669987422896128/) pela [Cubos Academy](https://cubos.academy/)
 
